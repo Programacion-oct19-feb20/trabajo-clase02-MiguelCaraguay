@@ -1,0 +1,2 @@
+¿Que es un algoritmo?
+conjunto de pasos que se realizan para dar solucion a un problema
